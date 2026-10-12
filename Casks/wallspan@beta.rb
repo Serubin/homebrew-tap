@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "wallspan@beta" do
-  version "1.0.0-beta.1"
-  sha256 "c4141d19967a810cc370bafb1bccb613a9e87548f3db16347a6ebcc087c4d566"
+  version "1.0.0-beta.2"
+  sha256 "16cb65033d3ad248bee13513baaacf47997d354646fff1c9cc745632281e95b3"
 
   url "https://github.com/Serubin/WallSpan/releases/download/v#{version}/Wallspan-#{version}.zip"
   name "Wallspan"
