@@ -7,8 +7,8 @@
 class Wallspan < Formula
   desc "CLI for spanning one wallpaper across every display"
   homepage "https://github.com/Serubin/WallSpan"
-  url "https://github.com/Serubin/WallSpan/releases/download/v0.1.0/wallspan-0.1.0-universal.tar.gz"
-  sha256 "a211d683c011c2c5901ba0316d45a7e988cd9d52aa1eb742cb9267de5842c57d"
+  url "https://github.com/Serubin/WallSpan/releases/download/v1.0.0/wallspan-1.0.0-universal.tar.gz"
+  sha256 "0ff3113293d9f89bdbcb766737e18c5d3d2f4d9bc11fe54d32895aae2c565258"
   license "GPL-3.0-or-later"
 
   # Builds the tip of main from source. CI's snapshot builds are upload-artifact uploads,
